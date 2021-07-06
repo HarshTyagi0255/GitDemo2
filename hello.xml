@@ -1,0 +1,15 @@
+<xml version="1.0"?>
+	<menu>
+		<Books>
+			<book>
+				<ID>East of Eden</ID>
+			</book>
+			<book>
+				<ID>A Time to Kill</ID>
+			</book>
+			<book>
+				<ID>Queen's Gambit</ID>
+			</book>
+		</Books>
+
+
